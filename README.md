@@ -1,8 +1,10 @@
 ### Hi 👋, I am Jéssica Grunewald
 
-- 👩‍💻 Full Stack Web Development Student at Trybe
+- 👩‍💻 Full Stack Web Development Student
 
 - 💻 I'm a professional in career transition. Every day more dedicated and motivated to delve into the area of programming and technology
+
+- :coffee: I love coffee
 
 
 <br><br>
