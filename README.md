@@ -8,7 +8,7 @@
 
 - :coffee: I love coffee
 
-  ## This is my [Portfolio](https://jagrunewald.github.io/)
+## This is my [Portfolio](https://jagrunewald.github.io/)
 
 <br><br>
 
