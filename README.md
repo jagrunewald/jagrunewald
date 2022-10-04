@@ -1,5 +1,7 @@
 ### Hi 👋, I am Jéssica Grunewald
 
+![Image](https://drive.google.com/file/d/1Ta-1_l2c8B0usxk3G2Kh93vQBdRHa_Ls/view?usp=sharing)
+
 - 👩‍💻 Full Stack Web Development
 
 - 🇮🇪 I'm living in Waterford in Ireland.
