@@ -1,11 +1,14 @@
 ### Hi 👋, I am Jéssica Grunewald
 
-- 👩‍💻 Full Stack Web Development Student
+- 👩‍💻 Full Stack Web Development
+
+- 🇮🇪 I'm living in Waterford in Ireland.
 
 - 💻 I'm a professional in career transition. Every day more dedicated and motivated to delve into the area of programming and technology
 
 - :coffee: I love coffee
 
+  ## This is my [Portfolio](https://jagrunewald.github.io/)
 
 <br><br>
 
@@ -24,15 +27,6 @@
 
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<div style="display: inline_block">
-  <a href="https://github.com/jagrunewald">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jagrunewald&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagrunewald&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<br>
 
 ### 🙋‍♀️ &nbsp;Social Links
 
