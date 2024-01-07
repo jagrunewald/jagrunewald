@@ -1,13 +1,9 @@
 ### Hi 👋, I am Jéssica Grunewald
 
 
-- 👩‍💻 Full Stack Web Development
+- 💻 📊 I'm a professional in career transition. Every day more dedicated and motivated to delve into the area of data and technology
 
-- 🇮🇪 I'm living in Waterford in Ireland.
-
-- 💻 I'm a professional in career transition. Every day more dedicated and motivated to delve into the area of programming and technology
-
-- :coffee: I love coffee
+- ☕ I love coffee
 
 ## This is my [Portfolio](https://jagrunewald.github.io/)
 
